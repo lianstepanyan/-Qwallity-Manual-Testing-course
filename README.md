@@ -1,0 +1,1 @@
+# -Qwallity-Manual-Testing-course
